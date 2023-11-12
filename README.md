@@ -1,8 +1,8 @@
 
 # Práctica Big Data Processing
+## Descubriendo el manejo de Big Data con Spark en conjunto con Scala y Pyspark: Lecciones aprendidas.
 
-
-## Las grandes cantidades de información y datos disponibles hoy en el mundo digital, hacen que la capacidad para organizarlos y analizarlos a fin de extraer información de valor que permita la toma de decisiones estratégicas, sea uno de los objetivos fundamentales de la ciencia de datos. Para lograr este cometido, se pueden utilizar diferentes herramientas de programación; no obstante, el aprendizaje de Spark junto con PySpark y Scala me ha proporcionado valiosos conocimientos que han ampliado significativamente mi comprensión y dominio de grandes volúmenes de datos. El propósito de este artículo es compartir tres de los principales aprendizajes adquiridos con el uso de estas herramientas:
+Las grandes cantidades de información y datos disponibles hoy en el mundo digital, hacen que la capacidad para organizarlos y analizarlos a fin de extraer información de valor que permita la toma de decisiones estratégicas, sea uno de los objetivos fundamentales de la ciencia de datos. Para lograr este cometido, se pueden utilizar diferentes herramientas de programación; no obstante, el aprendizaje de Spark junto con PySpark y Scala me ha proporcionado valiosos conocimientos que han ampliado significativamente mi comprensión y dominio de grandes volúmenes de datos. El propósito de este artículo es compartir tres de los principales aprendizajes adquiridos con el uso de estas herramientas:
 
 # 1.	Spark 
  
